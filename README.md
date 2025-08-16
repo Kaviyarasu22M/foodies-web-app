@@ -2,7 +2,7 @@
 
 A simple and responsive food website built with **HTML, CSS, Bootstrap**, and a little bit of **JavaScript**.  
 
-🌐 **Live Demo**: [Foodies Web App](https://foodies1-web-app.netlify.app)  
+🌐 **Live Demo**: [Foodies Web App] (https://foodies1-web-app.netlify.app)  
 
 ## 🚀 Features  
 - Responsive design (mobile-friendly)  
